@@ -15,4 +15,5 @@ SQL 与其他的编程语言相比学习成本较低，使用 SQL 作业进行�
 - [DML 语句](./dml_statements/insert_statements)
 - [运算符和内置函数](./operators_functions)
 - [扩展语法](./extend_statement)
+- [SQL 知识大全](./sql_knowledge/1-query-config.md)
 
